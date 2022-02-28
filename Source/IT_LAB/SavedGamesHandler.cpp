@@ -10,7 +10,7 @@ TArray<FString> USavedGamesHandler::GetSavedGamesList()
 	Output.Empty();
 	FString Path;
 	
-	if (PLATFORM_WINDOWS)
+	if (PLATFORM_WINDOWS && !GIsEditor)
 	{
 		FString AppDataPath = FPlatformProcess::UserSettingsDir();
 		FString ProjectName = FApp::GetProjectName();
