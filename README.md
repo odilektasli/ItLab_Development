@@ -4,18 +4,28 @@
 
 The project can run on **_android devices_** as well as windows 10.
 
-A short description vide below about the abilities of the simulator.
+A short description video below about the abilities of the simulator.
+
+**_(Click the image below or https://www.youtube.com/watch?v=xxZhEjW10kU&t)_**
+
+[![TutorialYouTube_Video](https://user-images.githubusercontent.com/61044813/158031229-391ae48f-29cc-44ec-83aa-4343c00c6d5b.png)](https://www.youtube.com/watch?v=xxZhEjW10kU&t)
+
+### Implementation Technique
+
+To represent the circuit in unreal engine, directed graph algorithm is used.
+The image below describes how 2 bit adder circuit is represented as the graph.
 
 
+![Untitled Diagram-Page-3(2)](https://user-images.githubusercontent.com/61044813/158031785-6bf018a9-c5a2-4619-8957-d0bd96d53907.jpg)
 
-<p><iframe width="560" height="315" src="https://www.youtube.com/watch?v=xxZhEjW10kU&t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+Thanks to this approach an infrastructure has been provided to use on Blueprint.
 
+The image below shows the decoder circuit that is constructed with graph infrastructure.
 
+![resim](https://user-images.githubusercontent.com/61044813/158032423-92bdf390-8983-48a0-b539-a64243c28603.png)
 
-![resim](https://user-images.githubusercontent.com/61044813/157501642-6ee078bd-110c-4adb-86f8-713454611d61.png)
+**_Get a closer look..._**
 
-![resim](https://user-images.githubusercontent.com/61044813/157501695-df762bbc-5b70-4c63-b8cf-f0a1d1b63715.png)
+![resim](https://user-images.githubusercontent.com/61044813/158032446-f3113005-ab32-4005-b196-b2bda1d3cbba.png)
 
-![resim](https://user-images.githubusercontent.com/61044813/157501814-b502510f-cef9-45ff-9f5c-548fdd37f3ac.png)
-
-![resim](https://user-images.githubusercontent.com/61044813/157501854-bfbe6876-a723-421c-b1f8-59d0efa1be16.png)
+Thanks to this system all components are constructed according to their real life data sheet and work flows.
