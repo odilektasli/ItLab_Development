@@ -1,8 +1,12 @@
-# ItLab
+# IT Lab
 
 ### It Lab is the digital dircuit simulator for electricity laboratory courses in the universities. The project is developed by Özer DİLEKTAŞLI as the Becholor's Degree Computer Engineering graduation project using Unreal Engine 4 in 2021-2022 Fall semester.
 
 The project can run on **_android devices_** as well as windows 10.
+
+A short description vide below about the abilities of the simulator.
+
+[![ITLAB Video](https://img.youtube.com/vi/xxZhEjW10kU&t=19s/0.jpg)](https://www.youtube.com/watch?v=xxZhEjW10kU&t=19s)
 
 ![resim](https://user-images.githubusercontent.com/61044813/157501642-6ee078bd-110c-4adb-86f8-713454611d61.png)
 
