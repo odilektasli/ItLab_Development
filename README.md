@@ -6,7 +6,9 @@ The project can run on **_android devices_** as well as windows 10.
 
 A short description vide below about the abilities of the simulator.
 
-[![ITLAB Video](https://img.youtube.com/vi/xxZhEjW10kU&t=19s/0.jpg)](https://www.youtube.com/watch?v=xxZhEjW10kU&t=19s)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=xxZhEjW10kU&t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![resim](https://user-images.githubusercontent.com/61044813/157501642-6ee078bd-110c-4adb-86f8-713454611d61.png)
 
