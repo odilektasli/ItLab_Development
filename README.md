@@ -14,6 +14,7 @@ A short description video below about the abilities of the simulator.
 
 To represent the circuit in unreal engine, directed graph algorithm is used.
 The image below describes how 2 bit adder circuit is represented as the graph.
+The algorithm implemented using C++
 
 
 ![Untitled Diagram-Page-3(2)](https://user-images.githubusercontent.com/61044813/158031785-6bf018a9-c5a2-4619-8957-d0bd96d53907.jpg)
